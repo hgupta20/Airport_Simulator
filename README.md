@@ -10,8 +10,6 @@ q - quit the program
 
 ? - display a list of commands the user can enter for the program
 
-# - ignore this line of input
-
 t - display a message stating whether a person can travel from airport to airport in one or more flights
 
 r - remove all values from the traffic network and resize the array to contain the number of aiports as indicated by the given integer value. The value of the integer must be greater than zero.
